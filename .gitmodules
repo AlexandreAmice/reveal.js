@@ -1,3 +1,6 @@
 [submodule "third_party_plugins/reveal.js-plugins"]
 	path = third_party_plugins/reveal.js-plugins
 	url = https://github.com/rajgoel/reveal.js-plugins.git
+[submodule "third_party_plugins/reveal.js-notes-pointer"]
+	path = third_party_plugins/reveal.js-notes-pointer
+	url = https://github.com/djsutherland/reveal.js-notes-pointer.git
